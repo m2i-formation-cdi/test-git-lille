@@ -1,4 +1,4 @@
 Le fichier d'accueil
-Une correction à la place du bug
+Une correction à la place de rien
 BUG CORRIGÉ
 Encore une ligne
